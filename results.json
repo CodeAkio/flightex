@@ -4,25 +4,18 @@
   "invalid": [],
   "passed": [
     {
-      "describe": "save/1",
-      "file": "/Users/codeakio/Dev/flightex/test/bookings/booking_agent_test.exs",
-      "line": 15,
-      "module": "Elixir.Flightex.Bookings.AgentTest",
-      "test": "test save/1 when the param are valid, return a booking uuid"
+      "describe": "call/1",
+      "file": "/Users/codeakio/Dev/flightex/test/users/create_or_update_test.exs",
+      "line": 35,
+      "module": "Elixir.Flightex.Users.CreateOrUpdateTest",
+      "test": "test call/1 when cpf is a integer, returns an error"
     },
     {
-      "describe": "get/1",
-      "file": "/Users/codeakio/Dev/flightex/test/bookings/booking_agent_test.exs",
-      "line": 34,
-      "module": "Elixir.Flightex.Bookings.AgentTest",
-      "test": "test get/1 when the user is found, return a booking"
-    },
-    {
-      "describe": "get/1",
-      "file": "/Users/codeakio/Dev/flightex/test/bookings/booking_agent_test.exs",
-      "line": 53,
-      "module": "Elixir.Flightex.Bookings.AgentTest",
-      "test": "test get/1 when the user wasn't found, returns an error"
+      "describe": "call/1",
+      "file": "/Users/codeakio/Dev/flightex/test/users/create_or_update_test.exs",
+      "line": 14,
+      "module": "Elixir.Flightex.Users.CreateOrUpdateTest",
+      "test": "test call/1 when all params are valid, return a tuple"
     }
   ],
   "skiped": []
