@@ -5,17 +5,10 @@
   "passed": [
     {
       "describe": "build/4",
-      "file": "/Users/codeakio/Dev/flightex/test/users/users_test.exs",
-      "line": 22,
-      "module": "Elixir.Flightex.Users.UserTest",
-      "test": "test build/4 when cpf is a integer"
-    },
-    {
-      "describe": "build/4",
-      "file": "/Users/codeakio/Dev/flightex/test/users/users_test.exs",
-      "line": 9,
-      "module": "Elixir.Flightex.Users.UserTest",
-      "test": "test build/4 when all params are valid, returns the user"
+      "file": "/Users/codeakio/Dev/flightex/test/bookings/booking_test.exs",
+      "line": 7,
+      "module": "Elixir.Flightex.Bookings.BookingTest",
+      "test": "test build/4 when all params are valid, returns a booking"
     }
   ],
   "skiped": []
