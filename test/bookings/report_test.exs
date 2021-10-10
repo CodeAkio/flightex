@@ -1,5 +1,5 @@
 defmodule Flightex.Bookings.ReportTest do
-  use ExUnit.Case, async: true
+  use ExUnit.Case
 
   alias Flightex.Bookings.Report
 
